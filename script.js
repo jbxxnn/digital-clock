@@ -53,5 +53,4 @@ function doDate() {
     return time;
   }
 }
-
 setInterval(doDate, 1000);
